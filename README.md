@@ -4,7 +4,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/ankit-indexnine.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/ankit-indexnine?tab=followers)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ankit.pandey@indexnine.com)
 
-**💼 Currently working as:** Full-Stack Developer & Test Engineer at <a href="https://www.indexnine.com/" target="_blank"><b>Indexnine Technologies</b></a>
+**💼 Currently working as:** Full-Stack Developer at <a href="https://www.indexnine.com/" target="_blank"><b>Indexnine Technologies</b></a>
 
 **👨🏻‍💻 Currently working on:** 
 
