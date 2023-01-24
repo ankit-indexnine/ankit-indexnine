@@ -13,7 +13,7 @@
 <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img height="50" src="https://b.kisscc0.com/20180815/zlq/kisscc0-computer-icons-logo-brand-javascript-angle-js-5b741783856f77.0690615715343348515466.png"></a></code>
 <code><a href="https://nodejs.org/" target="_blank"><img height="50" src="https://nodejs.org/static/images/logos/nodejs-new-pantone-black.svg"></a></code>
 <code><a href="https://aws.amazon.com/" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"></a></code>
-<code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Docker-Logo-White-RGB_Moby.png?itok=VwIPWvAs"></a></code>
+<code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Emblem.png"></a></code>
 
 <!-- ![Ankit's github stats](https://github-readme-stats.vercel.app/api?username=ankit-indexnine&count_private=true&show_icons=true&line_height=30&theme=tokyonight) -->
 
