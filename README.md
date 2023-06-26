@@ -19,11 +19,17 @@
 
 🌱 Learning all about **Open Source**
 
-<p align="center"> 
+<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankit-indexnine&show_icons=true&locale=en&layout=compact" alt="ankit-indexnine" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankit-indexnine&show_icons=true&locale=en" alt="ankit-indexnine" /></p>-->
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankit-indexnine&" alt="ankit-indexnine" /></p>
+
+<p align="left"> 
   Visitor Count<br>
   <img src="https://profile-counter.glitch.me/ankit-indexnine/count.svg" />
 </p>
 
-<p align="center">
+<p align="left">
   MADE WITH :heart: &nbsp;USING <a href="https://github.com/github/markup">GITHUB MARKDOWN</a>
 </p>
